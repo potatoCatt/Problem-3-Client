@@ -1,0 +1,5 @@
+﻿  Client.cpp
+C:\Users\cat\Documents\тестовое\Client\Client\Client.cpp(32,46): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\cat\Documents\тестовое\Client\Client\Client.cpp(82,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\cat\Documents\тестовое\Client\Client\Client.cpp(87,41): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  Client.vcxproj -> C:\Users\cat\Documents\тестовое\Client\x64\Debug\Client.exe
